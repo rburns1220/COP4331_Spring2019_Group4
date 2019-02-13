@@ -1,8 +1,11 @@
-# Sample Project for COP 4331 - Spring 2018
+# Group 4 for COP 4331 - Spring 2019
 
 ## Team Members
 
-- Dr. Hollander
+- Jingxiao Wang
+- Ryan Strickler
+- Ryan Burns
+- Vincent Phan
 
 ## Vision Statement
 
