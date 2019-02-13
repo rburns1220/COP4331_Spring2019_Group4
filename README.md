@@ -9,14 +9,7 @@
 
 ## Vision Statement
 
-Your vision statement should contain the following information and be formatted as one or more paragraphs.
-
-1. For ... (the product’s target market)
-2. Who/That ... (describe what need your product solves)
-3. The product ... (product name,or product category)
-4. That leads to ... (main advantage, appealing reason for purchase)
-5. Unlike the ... (principal competing alternatives)
-6. Our product offers ... (describe main differentiation)
+Our product is targeted towards the general consumer audience ages 18+ globally who want a way to book venues for their events, parties, or meetings or to list their own spaces for renting for venues. Currently on the market, there isn't an app that facilitates a shared community of users looking to book & list venue spaces. Our product Venue falls in line with the suite of products similar to AirBnb that allows users an easy way to find their next space. Our app's main advantage is a cohesive, unified, and ergonomic way to easily book and list venues without stress in little time in addition to reviewing and analyzing all aspects of your booking and listing experience. Unlike AirBnb, which only caters towards hourly rentals, and unlike other booking sites, which only cater towards large event organizers, our product offers the ability for any user to have the ability to list a space and any user to book a space. 
 
 # Sprint 1
 
