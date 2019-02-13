@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- Jingxiao Wang
+- Jingxiao Wang (Github Username: Stelthshield)
 - Ryan Strickler
 - Ryan Burns
 - Vincent Phan
