@@ -9,4 +9,5 @@
 | 004 | As a user, I want to be able to pay for my booked venues, so that I can transfer my payment to whom listed the venue. | 8 | 1 | Function to pay with credit card. | WORKING |
 | 005 | As a user, I want to be able to receive payment for my liste venues, so that I can make money. | 8 | 1 | Function to receive payment. | WORKING |
 | 006 | As a user, I want to be able to log into a website to perform all actions, so I can visit the site multiple times and have an easy to use interface. | 8 | 1 | Functional working website | WORKING |
+| 007 | As a user, I want to be able to blacklist users from venue, so I don't need to do business with them again. | 8 | 2 | Function to append a user to a list of unaccepted guests by the user | WORKING|
 | ID | As a user, TEMPLATE | # | # | TEMPLATE | WORKING/DONE |
